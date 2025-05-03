@@ -9,7 +9,7 @@ I'm Alejandro sobarzo, a passionate Software Engineer holding a degree from the 
 
 Feel free to connect with me for collaborations, discussions, or just to say hello!
 
-📧 [Your Email Address] | 💼 [LinkedIn Profile] | 🌐 [Personal Portfolio] (coming soon)
+📧 [Your Email Address] | 💼 [LinkedIn Profile] | 🌐 [alejandrosobarzo.cl] (coming soon)
 
 # My skills
 | **Programming** |**Front End** |**Back End**|
